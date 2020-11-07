@@ -1,0 +1,3 @@
+/Users/kishankumar/Desktop/SDE_SHEET/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kishankumar/Desktop/SDE_SHEET/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kishankumar/Desktop/SDE_SHEET/cmake-build-debug/CMakeFiles/SDE_SHEET.dir
